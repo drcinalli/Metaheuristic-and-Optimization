@@ -1,4 +1,4 @@
-\ Model UFL
+\ Model UFLP
 \ LP format - for model browsing. Use MPS format to capture full model detail.
 Minimize
   3 x[0] + 2 x[1] + 3 x[2] + x[3] + 3 x[4] + 3 x[5] + 4 x[6] + 3 x[7]
